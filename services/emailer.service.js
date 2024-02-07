@@ -5,8 +5,8 @@ async function sendEmail(params,callback){
         host: 'smtp.ethereal.email',
         port: 587,
         auth: {
-            user: 'destiny.oconner@ethereal.email',
-            pass: 'WZwmmFX5KT3Mkcmwqn'
+            user: '',
+            pass: ''
         }
     });
     //contents of mail
